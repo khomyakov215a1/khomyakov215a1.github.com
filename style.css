@@ -25,23 +25,24 @@
 
 #page_wrap{
 	width: 60%;
-	align:center;
+	float:center;
 }
 #left_sidebar{
-	width:15%;
+	width:20%;
 	float:left;
 	background:url(http://all-nba.ru.xsph.ru/wp-content/uploads/2013/03/blok3.png) center top no-repeat;
 	margin-top:-4px;
 	padding-top:4px;
 }
 #right_sidebar{
-	width:15%;
+	width:20%;
 	float:right;
 	background:url(http://all-nba.ru.xsph.ru/wp-content/uploads/2013/03/blok3.png) center top no-repeat;
 	margin-top:-4px;
 	padding-top:4px;
 }
 #content{
+	width:60%;
 	float:center;
 	background:url(http://all-nba.ru/wp-content/themes/footballnet/images/content/top-lr.png);
 	margin-top:-4px;
