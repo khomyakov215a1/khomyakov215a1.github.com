@@ -28,15 +28,23 @@
 	float:center;
 }
 #left_sidebar{
-	width: 20%;
-	float:left;
+	position: relative;
+	float: left;
+	overflow: hidden;
+	padding-bottom: 20px;
+	height: 100%;
+	width: 272px;
 	background:url(http://all-nba.ru/wp-content/uploads/2013/03/blok3.png) center top no-repeat;
 	margin-top:-4px;
 	padding-top:4px;
 }
 #right_sidebar{
-	width: 20%;
-	float:right;
+	position: relative;
+	float: right;
+	overflow: hidden;
+	padding-bottom: 20px;
+	height: 100%;
+	width: 272px;
 	background:url(http://all-nba.ru/wp-content/uploads/2013/03/blok3.png) center top no-repeat;
 	margin-top:-4px;
 	padding-top:4px;
