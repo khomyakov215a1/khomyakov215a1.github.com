@@ -25,7 +25,7 @@
 
 #page_wrap{
 	width: 70%;
-	float:center;
+	margin: 0px auto 0px;
 }
 #left_sidebar{
 	position: relative;
