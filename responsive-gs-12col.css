@@ -31,10 +31,8 @@
 			
 								  
 /* DEFAULT COLUMN STYLES */
-.col { 
-	background-color:#ffffff;
+.col {
 	display: block;
-	float:left;
 	width: 100%;
 }
 
