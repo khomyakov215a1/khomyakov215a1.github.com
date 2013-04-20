@@ -30,6 +30,7 @@
 #content{
 	background:url('http://onlynba.ru/wp-content/themes/footballnet/images/content/main-lr.png');
         width:100%;
+	float:center;
 }
 #left_sidebar{
 	background-color:#dcdad4;
