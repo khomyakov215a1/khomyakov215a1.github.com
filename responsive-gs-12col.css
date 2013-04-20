@@ -32,6 +32,7 @@
 								  
 /* DEFAULT COLUMN STYLES */
 .col { 
+	background-color:#ffffff;
 	display: block;
 	float:left;
 	width: 100%;
