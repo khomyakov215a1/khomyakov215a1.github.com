@@ -28,7 +28,8 @@
 	margin: 0px auto 0px;
 }
 #content{
-	background:#ffffff;
+	background-color:#ffffff;
+        width:100%;
 }
 #left_sidebar{
 	background:#dcdad4;	
