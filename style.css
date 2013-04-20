@@ -27,8 +27,11 @@
 	width: 60%;
 	margin: 0px auto 0px;
 }
+#page_top {
+background: url('http://onlynba.ru/wp-content/themes/footballnet/images/content/top-lr.png') left top repeat-y;
+}
 #page{
-	background:url('http://onlynba.ru/wp-content/uploads/2013/04/content_fon.png');
+	background:url('http://onlynba.ru/wp-content/uploads/2013/04/main-lr.png');
         width:100%;
 }
 #content{
