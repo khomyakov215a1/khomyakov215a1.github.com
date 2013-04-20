@@ -28,15 +28,11 @@
 	margin: 0px auto 0px;
 }
 #content{
-	background:url(http://all-nba.ru/wp-content/themes/footballnet/images/content/main-lr.png) left top repeat-y;
-}
-#tableblok{
-	width:100%;
 	background:#ffffff;
 }
 #left_sidebar{
-	background:#1b1b1b;	
+	background:#dcdad4;	
 }
 #right_sidebar{
-	background:#1b1b1b;
+	background:#dcdad4;
 }
