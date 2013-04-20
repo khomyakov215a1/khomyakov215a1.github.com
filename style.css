@@ -33,7 +33,9 @@
 }
 #left_sidebar{
 	background-color:#dcdad4;
+	float:left;
 }
 #right_sidebar{
 	background-color:#dcdad4;
+	float:right;
 }
