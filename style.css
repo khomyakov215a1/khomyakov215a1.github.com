@@ -35,6 +35,7 @@
         width:100%;
 }
 #content{
+	align="center";
 	background:url('http://onlynba.ru/wp-content/uploads/2013/04/fon_cont2.png');
 }
 #left_sidebar{
