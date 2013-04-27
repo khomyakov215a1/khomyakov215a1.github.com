@@ -35,17 +35,12 @@
 }
 #content{
 	margin-left:1%;
-	margin-right:1%;
-	align:center;
+	float:left;
 	background:url('http://onlynba.ru/wp-content/uploads/2013/04/fon_cont2.png');
 }
 #left_sidebar{
 	background-color:#dcdad4;
 	float:left;
-}
-#right_sidebar{
-	background-color:#dcdad4;
-	float:right;
 }
 #footer{
 	background:url(http://onlynba.ru/wp-content/uploads/2013/04/footer.jpg);
@@ -53,7 +48,7 @@
 }
 #news{
 	float:right;
-	margin:20px;
+	margin:10px;
 	bottom:30px;
 	text-align:left;
 	width:90%;
