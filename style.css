@@ -48,8 +48,9 @@
 }
 #news{
 	float:right;
-	margin:10px;
-	bottom:30px;
+	margin-left:2%;
+	margin-right:2%;
+	bottom:2%;
 	text-align:left;
 	width:90%;
 }
