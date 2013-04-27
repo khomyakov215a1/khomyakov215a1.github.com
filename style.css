@@ -52,6 +52,7 @@
 	height:80px;
 }
 #news{
+	float:right;
 	margin:20px;
 	bottom:30px;
 	text-align:left;
