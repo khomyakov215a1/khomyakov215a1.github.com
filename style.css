@@ -22,6 +22,14 @@
 .hr-none{
 	text-decoration: none;
 }
+a {
+	color:#4169e1;
+	font-weight: bold;         
+	font-family: arial;
+}
+a:hover {
+	color:#1b1b1b;
+}
 h1, h2, h3, h4, h5, h6, a.post_ttl {
 	color:#505050;
 	text-decoration:none;
