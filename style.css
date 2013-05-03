@@ -63,7 +63,7 @@
 #menu li {
         list-style: none;
         float: left;
-        height: 33px;
+        height: 40px;
         padding: 0;
         margin: 0;
         width: 150px;
@@ -84,7 +84,7 @@
         }
 #menu li ul li {
         float: none;
-        height: 33px;
+        height: 40px;
         margin: 0;
         width: 150px;
         text-align: center;
@@ -93,7 +93,7 @@
 #menu li a {
         display: block;
         width: 150px;
-        height: 33px;
+        height: 40px;
         color: #fff;
         text-decoration: none;
         }
