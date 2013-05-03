@@ -22,7 +22,18 @@
 .hr-none{
 	text-decoration: none;
 }
-
+h1, h2, h3, h4, h5, h6, a.post_ttl {
+	color:#505050;
+	text-decoration:none;
+	font-weight: bold;         
+	font-family: arial;
+}
+a.post_ttl {
+	background:url(http://onlynba.ru/wp-content/uploads/2013/04/news.png) left top repeat-x;
+	color:#464451;
+	font-size:18px;
+	
+}
 #page_wrap{
 	width: 1024px;
 	margin: 0px auto 0px;
