@@ -46,6 +46,7 @@ a.post_ttl {
 #page_wrap{
 	width: 1024px;
 	margin: 0px auto 0px;
+	font-size:10px;
 }
 #page_top {
 	background: url('http://onlynba.ru/wp-content/themes/footballnet/images/content/top-lr.png') left top repeat-y;
