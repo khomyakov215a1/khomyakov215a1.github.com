@@ -54,11 +54,13 @@ a.post_ttl {
         width:100%;
 }
 #content{
+	height:100%;
 	margin-left:1%;
 	float:right;
 	background:url('http://onlynba.ru/wp-content/uploads/2013/05/fon_cont2.png');
 }
 #left_sidebar{
+	height:100%;
 	background:url('http://onlynba.ru/wp-content/uploads/2013/05/fon_cont2.png');
 	float:left;
 }
