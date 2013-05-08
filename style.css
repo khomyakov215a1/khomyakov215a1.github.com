@@ -54,6 +54,7 @@ a.post_ttl {
         width:100%;
 }
 #content{
+	border-radius:8px;
 	font-size:14px;
 	height:100%;
 	margin-left:1%;
@@ -61,12 +62,14 @@ a.post_ttl {
 	background:url('http://onlynba.ru/wp-content/uploads/2013/05/fon_cont2.png');
 }
 #left_sidebar{
+	border-radius:8px;
 	font-size:14px;
 	height:100%;
 	background:url('http://onlynba.ru/wp-content/uploads/2013/05/fon_cont2.png');
 	float:left;
 }
 #footer{
+	border-radius:8px;
 	background:url(http://onlynba.ru/wp-content/uploads/2013/04/footer.jpg);
 	height:80px;
 }
